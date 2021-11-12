@@ -1,1 +1,1 @@
-# Job Salary For Data SCience
+# Job Salary For Data Science
